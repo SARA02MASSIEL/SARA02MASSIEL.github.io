@@ -350,7 +350,7 @@ if (reversed == null) { reversed = false; }
 		
 		_this.Inicio.on('click', function(){
 		
-		window.open('Index.html', '_self');
+		window.open('index.html', '_self');
 		});
 		
 		
